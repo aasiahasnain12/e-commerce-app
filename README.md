@@ -16,8 +16,12 @@ A simple e-commerce app built with **React**, **Tailwind CSS**, and **Vite**, fe
 
 ## Screenshots
 
-![Screenshot of homepage](link-to-screenshot.png)
-![Screenshot of cart](link-to-screenshot.png)
+Homepage:  
+![Homepage](screenshots/homepage.png)
+
+Cart Page:  
+![Cart](screenshots/cart.png)
+
 
 ## Technologies Used
 
