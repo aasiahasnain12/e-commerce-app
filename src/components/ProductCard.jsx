@@ -1,4 +1,5 @@
-function ProductCard(item, addToCart ) {
+function ProductCard({item, addToCart} ) {
+  if (!item) return null;
   return (
     <div className="border rounded-lg p-4 shadow hover:shadow-xl 
     transition">
