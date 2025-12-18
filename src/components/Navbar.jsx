@@ -7,7 +7,7 @@ function Navbar({ cartCount, setShowCart }) {
   onClick={() => setShowCart(false)}
   className="text-xl font-bold cursor-pointer"
 >
-  E-Commerce-App
+  My-Shopping-App
 </h1>
       
       <button
