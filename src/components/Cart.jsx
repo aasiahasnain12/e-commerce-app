@@ -30,7 +30,7 @@ function Cart({ cart =[], removeFromCart }) {
 
     <div>
       <h2 className="text-2xl font-bold mb-4 px-6">
-        Total: ₹ {cart.reduce((total, item)=> total + item.price, 0)}
+        Total: ₹ {cart.reduce((total, item)=> total + item.price, 0).toFixed(2)}
         </h2>
     </div>
     </>
