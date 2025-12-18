@@ -17,10 +17,10 @@ A simple e-commerce app built with **React**, **Tailwind CSS**, and **Vite**, fe
 ## Screenshots
 
 Homepage:  
-![Homepage](screenshots/homepage.png)
+![Homepage]([screenshots/homepage.png](https://raw.githubusercontent.com/aasiahasnain12/e-commerce-app/main/screenshots/HomePage.png))
 
 Cart Page:  
-![Cart](screenshots/cart.png)
+![Cart]([screenshots/cart.png](https://raw.githubusercontent.com/aasiahasnain12/e-commerce-app/main/screenshots/cart.png))
 
 
 ## Technologies Used
